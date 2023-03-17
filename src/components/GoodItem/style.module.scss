@@ -1,0 +1,52 @@
+.goodItemWrapper {
+  //margin-left: 15px;
+  //padding: 10px;
+  width: 100%;
+  float: left;
+  margin-bottom: 15px;
+  padding-left: 15px;
+  max-width: 31%;
+}
+
+.noImage {
+  //width: 300px;
+  height: 200px;
+  width: 100%;
+  background-color: #dbdada;
+  position: relative;
+  //margin-bottom: 10px;
+}
+
+.noImageIcon {
+  width: 100%;
+  max-width: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.textWrapper {
+  background-color: #f6f6f6;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+
+.category {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 25px;
+  margin-bottom: 10px;
+}
+
+.props {
+  min-height: 25px;
+  line-height: 25px;
+  color: #898989;
+}
+
+.popsType {
+  font-weight: bold;
+  color: black;
+}

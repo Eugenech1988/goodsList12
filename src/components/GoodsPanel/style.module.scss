@@ -1,0 +1,10 @@
+.goodsPanelWrapper {
+  width: calc(100% - 155px);
+  margin-left: 174px;
+  height: 100vh;
+  //float: right;
+}
+.goodItem {
+  float: left;
+  width: calc(30% - 15px);
+}

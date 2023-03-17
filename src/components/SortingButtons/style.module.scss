@@ -1,0 +1,15 @@
+.sortingWrapper {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+}
+
+.sortingButton {
+  min-height: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: transparent;
+  margin-right: 15px;
+  border: 1px solid black;
+  cursor: pointer;
+}

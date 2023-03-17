@@ -1,0 +1,46 @@
+{
+  "goods": [
+    {
+      "category": "Sneakers",
+      "numberPrice": 100,
+      "price": "$100",
+      "rating": 5,
+      "color": "white"
+    },
+    {
+      "category": "Sneakers",
+      "numberPrice": 90,
+      "price": "$90",
+      "rating": 4.3,
+      "color": "red"
+    },
+    {
+      "category": "Sneakers",
+      "numberPrice": 70,
+      "price": "$70",
+      "rating": 4.7,
+      "color": "blue"
+    },
+    {
+      "category": "Shoes",
+      "numberPrice": 80,
+      "price": "$80",
+      "rating": 4.2,
+      "color": "blue"
+    },
+    {
+      "category": "Shoes",
+      "numberPrice": 80,
+      "price": "$80",
+      "rating": 4.2,
+      "color": "blue"
+    },
+    {
+      "category": "Shoes",
+      "numberPrice": 80,
+      "price": "$80",
+      "rating": 4.2,
+      "color": "blue"
+    }
+  ]
+}
